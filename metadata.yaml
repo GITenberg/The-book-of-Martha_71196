@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '50346'
     url: http://www.gutenberg.org/2009/agents/50346
     wikipedia: https://en.wikipedia.org/wiki/Augustus_John
+covers:
+- cover_type: archival
+  image_path: 71196-h/images/cover.jpg
 creator:
   author:
     agent_name: Dowdall, Mrs.
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54360
     wikipedia: https://en.wikipedia.org/wiki/Mary_Frances_Dowdall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71196#The-book-of-Martha
 gutenberg_issued: '2023-07-15'
 identifiers:
   gutenberg: '71196'
